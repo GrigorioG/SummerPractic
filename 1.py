@@ -6,10 +6,10 @@ import pandas as pd
 from bs4 import BeautifulSoup
 
 # введите сюда ваш телеграм-токен
-bot = telebot.TeleBot('1935854365:AAGeWF4Dut2bopAdLkpE6LioheRY-FTJRg0')
+bot = telebot.TeleBot('')
 
 #введите сюда ваш токен Aviasales
-av_api_token = "8d574f375838d8bad87159110cb48aa9"
+av_api_token = ""
 
 # получает словари:
 # из названия города в код города
